@@ -1,6 +1,6 @@
 # <center>**[Cool Kids Coding School](https://www.coolkidscodingschool.com)**</center>
 ---
-## Introduction to Excel<br> Lesson 02: Excel Basics (Part 2)
+## Introduction to Excel<br> Lesson 02: Excel Basics (Cells and Formatting)
 
 ![alt text][logo]
 
