@@ -18,9 +18,9 @@
 + Class #5 (**Excel Basics (Functions)**)
   + 5/4/2020
   + Remote
-+ Class #6 (**Charting**)
-  + TBD
-  + TBD
++ Class #6 (**Excel Basics (More Functions)**)
+  + 5/11/2020
+  + Remote
 + Class #7 (**Analysis**)
   + TBD
   + TBD 
@@ -31,5 +31,11 @@
   + TBD
   + TBD
 + Class #10 (**Analysis**)
+  + TBD
+  + TBD
++ Class #11 (**Analysis**)
+  + TBD
+  + TBD
++ Class #12 (**Analysis**)
   + TBD
   + TBD
