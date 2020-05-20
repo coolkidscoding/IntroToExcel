@@ -21,9 +21,9 @@
 + Class #6 (**Excel Basics (More Functions)**)
   + 5/11/2020
   + Remote
-+ Class #7 (**Analysis**)
-  + TBD
-  + TBD 
++ Class #7 (**Excel Basics (Data Tables and Pivot Tables)**)
+  + 5/20/2020
+  + Remote
 + Class #8 (**Analysis**)
   + TBD
   + TBD
