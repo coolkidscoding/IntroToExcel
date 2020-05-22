@@ -10,15 +10,6 @@
 
 > 1.0 Review
 After last lesson we should all be familiar and know how to use the following functions:
-+ COUNT/COUNTIF
-+ SUM/SUMIF
-+ AVERAGE/AVERAGEIFS
-+ MIN/MINIFS
-+ MAX/MAXIFS
-
-> 2.0 Formulas & Functions
-In today's lesson we are going to continue our study of functions.
-The functions we are going to review today are:
 + SUMPRODUCT
 + VLOOKUP/HLOOKUP
 + TODAY/NOW
@@ -30,6 +21,10 @@ The functions we are going to review today are:
 + RAND/RANDBETWEEN
 + ROUND/ROUNDUP/ROUNDDOWN
 
+2.0 Data Tables
+
+3.0 Pivot Tables
+Pivot tables are one of the most powerful and useful features in Excel.  You can think of a pivot table as a report.  Unlike a static report, a pivot table provides an interactive view of your data.  With very little effort (and no formulas) you can look at the same data from many different perspectives.  
 ---
 
 ## **Any Questions?**

@@ -22,7 +22,7 @@
   + 5/11/2020
   + Remote
 + Class #7 (**Excel Basics (Data Tables and Pivot Tables)**)
-  + 5/20/2020
+  + 5/22/2020
   + Remote
 + Class #8 (**Analysis**)
   + TBD
