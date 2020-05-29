@@ -24,7 +24,7 @@
 + Class #7 (**Excel Basics (Data Tables and Pivot Tables)**)
   + 5/22/2020
   + Remote
-+ Class #8 (**VLOOKUP Analysis**)
++ Class #8 (**Analysis #1**)
   + 5/29/2020
   + Remote
 + Class #9 (**Analysis**)
