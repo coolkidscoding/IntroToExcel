@@ -27,9 +27,9 @@
 + Class #8 (**Analysis #1**)
   + 5/29/2020
   + Remote
-+ Class #9 (**Analysis**)
-  + TBD
-  + TBD
++ Class #9 (**Analysis #2**)
+  + 6/5/2020
+  + Remote
 + Class #10 (**Analysis**)
   + TBD
   + TBD
