@@ -1,10 +1,18 @@
-# <center>**[Cool Kids Coding School](https://www.coolkidscodingschool.com)**</center>
+<div>
+
+<p>
+<img align=left src="images/ckcslogo.png">
+</p>
+
 ---
-## Introduction to Excel<br> Lesson 04: Excel Basics (More Functions)
 
-![alt text][logo]
+<p>
+<H1 align=left><a href="http://www.coolkidscodingschool.com">Cool Kids Coding School</a></H1>
+<H2 align=left>Course: <strong>Intro to Excel</strong></H1>
+<H3 align=left>Lesson 4: <strong>More Functions</strong></H3>
+</p>
 
-[logo]: ./images/ckcslogo.png
+</div>
 
 ---
 
